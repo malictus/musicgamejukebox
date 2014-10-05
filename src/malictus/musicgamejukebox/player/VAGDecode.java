@@ -2,6 +2,8 @@ package malictus.musicgamejukebox.player;
 
 /**
  * Decode a block of VAG-encoded audio data, and return the PCM version.
+ * 
+ * Adapted and converted to Java from the C program VAG-Depack by bITmASTER
  */
 public class VAGDecode {
 
